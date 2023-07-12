@@ -1,0 +1,23 @@
+body {
+    background-color: #404142 ;
+}
+
+
+.page-title, h5{
+    text-align: center;
+    color: #d7d4d8;
+}
+
+.card img {
+    width: 12rem;
+    height: 12rem;
+    /* margin: 10% auto; */
+}
+
+.btn-hakkimizda {
+    margin-top: 10px;
+}
+
+.card {
+    margin-bottom: 4%;
+}
