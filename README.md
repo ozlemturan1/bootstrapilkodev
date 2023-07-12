@@ -1,0 +1,2 @@
+#bootstrap ilk odev
+
